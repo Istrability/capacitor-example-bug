@@ -5,8 +5,8 @@ and comes with a very minimal shell for building an app.
 
 ### Running this example
 
-To run the provided example, you can use `npm start` command.
-
-```bash
-npm start
-```
+- Build web part (yarn && yarn build)
+- sync with Android project
+- Build and run Android project
+- observe Logcat
+- click first button then click second button
