@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.app",
+  "appName": "capacitor-example-bug",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
